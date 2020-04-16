@@ -1,4 +1,5 @@
-# Wiki
+# Intro
 
-### Introduce
-+ This is a wiki && a blog for record my knowledge and ideas.
+### Welcome to the world with the beautiful secular birds.
+
+[http://wiki.secbird.com/](http://wiki.secbird.com/)

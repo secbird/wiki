@@ -1,1 +1,33 @@
-theme: jekyll-theme-hacker
+title: wiki | secbird
+email: proton20191217@protonmail.com
+description: "secbird wiki"
+baseurl: "/"
+url: "http://wiki.secbird.com"
+github_username: secbird
+
+
+header_pages:
+  - index.md
+  - friends.md
+  - about.md
+style: dark
+footer: 'follow me on <a href="https://github.com/secbird" target="_blank">github</a>'
+
+
+# Build settings
+theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
+markdown: kramdown
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
