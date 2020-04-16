@@ -5,10 +5,5 @@ date:   2020-04-16 14:17:37 +0800
 categories: graffiti
 ---
 
-# \# Nice to meet you!
-## This is the first page in my life. 
-
-<br />
-
 # \# Intro
-## I am boy, a chinese boy who grew up in HK. Therefore, I will write articles with Chinese in the future. 
+## Hi, guys! I am a male technophile, born in a small town in China. Thanks to pay a visit to my website, where I will sharing my own ideas (using Chinese in most situation) about the security technology.
