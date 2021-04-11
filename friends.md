@@ -6,4 +6,4 @@ permalink: /friends/
 
 # Firends' Links
 
-+ [Self](http://wiki.secbird.com/)
++ [Secbird Wiki](http://wiki.secbird.com/)
