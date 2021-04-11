@@ -10,8 +10,8 @@ header_pages:
   - index.md
   - friends.md
   - about.md
-style: dark
-footer: 'follow me on <a href="https://github.com/secbird" target="_blank">github</a>'
+style: hacker
+footer: 'Follow me on <a href="https://github.com/secbird" target="_blank">GitHub</a>'
 
 
 # Build settings
