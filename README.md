@@ -2,4 +2,4 @@
 
 ### Welcome to the world with the beautiful secular birds.
 
-[http://wiki.secbird.com/](http://wiki.secbird.com/)
+[https://secbird.github.io/](https://secbird.github.io/wiki/)
